@@ -2,6 +2,10 @@
 
 This project performs sentiment analysis on customer reviews. It classifies reviews as **positive**, **neutral**, or **negative** using a Bidirectional LSTM model with text preprocessing and stemming.
 
+## Data set
+Since the file is too large, Here is the drive link to access the dataset.
+https://drive.google.com/file/d/1QN9vs72AVBKcpyj6gHyJZb2QNGedgd9j/view?usp=sharing
+
 ## Features
 
 - Preprocesses text by cleaning and stemming words
